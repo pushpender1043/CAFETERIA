@@ -2,7 +2,7 @@
 
 **GU Cafeteria** is a modern, responsive web application designed to streamline the food ordering process for university students and staff. Say goodbye to long queues and waiting times—order your favorite meals directly from your device!
 
-### 🚀 Features
+## 🚀 Features
 
 - **📱 Fully Responsive UI:** Optimized for both mobile and desktop users.
 - **⚡ Real-Time Menu:** Browse the latest cafeteria menu with updated prices.
